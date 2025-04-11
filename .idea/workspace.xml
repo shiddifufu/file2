@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0071e4c-1916-4856-91f1-36a9b0f46b15" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/1535f1aa785fb7315e994d59f474406.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4ff38f76c658e822de02b02de00129b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ae4ea875341bdd77aabf5ea0f8e5d91.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/b2e000738548e3a3f09850e97b6d266.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/c264b6c5fd599d21dd6102d8a05b1b1.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2vYwCgfpTKjacPGqBZVKJUx4pVg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/github file1"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="b0071e4c-1916-4856-91f1-36a9b0f46b15" name="更改" comment="" />
+      <created>1744335189576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744335189576</updated>
+    </task>
+    <servers />
+  </component>
+</project>
